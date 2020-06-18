@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="587b703a-eb8e-4a9b-a8b8-844ea39fb917" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/剑指offer/面试题05. 替换空格.go" beforeDir="false" afterPath="$PROJECT_DIR$/剑指offer/面试题05. 替换空格.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,22 +21,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="6" />
+          <entry key="go" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="6" />
+          <entry key="Go" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="2817" />
+          <entry key="go" value="4722" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="2817" />
+          <entry key="Go" value="4722" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger">
@@ -66,11 +66,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/排序算法/堆排序.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+            <state relative-caret-position="30">
+              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指offer/面试题10- I. 斐波那契数列.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/medium/94. 二叉树的中序遍历/94. 二叉树的中序遍历.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/树有关算法/非递归中序遍历.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -95,6 +122,11 @@
         <option value="$PROJECT_DIR$/剑指offer/面试题06. 从尾到头打印链表.go" />
         <option value="$PROJECT_DIR$/剑指offer/面试题07. 重建二叉树.go" />
         <option value="$PROJECT_DIR$/排序算法/堆排序.go" />
+        <option value="$PROJECT_DIR$/test.go" />
+        <option value="$PROJECT_DIR$/树有关算法/非递归前序遍历.go" />
+        <option value="$PROJECT_DIR$/剑指offer/面试题10- I. 斐波那契数列.go" />
+        <option value="$PROJECT_DIR$/树有关算法/非递归中序遍历.go" />
+        <option value="$PROJECT_DIR$/medium/94. 二叉树的中序遍历/94. 二叉树的中序遍历.go" />
       </list>
     </option>
   </component>
@@ -104,7 +136,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-373" />
     <option name="y" value="13" />
     <option name="width" value="1936" />
@@ -124,6 +156,22 @@
             <path>
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="medium" type="462c0819:PsiDirectoryNode" />
+              <item name="94. 二叉树的中序遍历" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="树有关算法" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,12 +203,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 堆排序.go">
+  <component name="RunManager" selected="Go Build.go build 面试题10- I. 斐波那契数列.go">
     <configuration name="go build 面试题05. 替换空格.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/剑指offer/面试题05. 替换空格.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 面试题10- I. 斐波那契数列.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/剑指offer/面试题10- I. 斐波那契数列.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -172,12 +228,24 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Go Build.go build 面试题05. 替换空格.go" />
       <item itemvalue="Go Build.go build 堆排序.go" />
+      <item itemvalue="Go Build.go build test.go" />
+      <item itemvalue="Go Build.go build 面试题10- I. 斐波那契数列.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 面试题10- I. 斐波那契数列.go" />
+        <item itemvalue="Go Build.go build test.go" />
         <item itemvalue="Go Build.go build 堆排序.go" />
         <item itemvalue="Go Build.go build 面试题05. 替换空格.go" />
       </list>
@@ -185,6 +253,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -257,8 +326,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/排序算法/堆排序.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        <state relative-caret-position="30">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/面试题10- I. 斐波那契数列.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树有关算法/非递归前序遍历.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/树有关算法/非递归中序遍历.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/medium/94. 二叉树的中序遍历/94. 二叉树的中序遍历.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
         </state>
       </provider>
     </entry>

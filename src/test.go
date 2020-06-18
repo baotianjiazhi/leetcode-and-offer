@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	a := [][]int{{1, 2, 3}, {1, 2, 3}}
-	fmt.Println(len(a))
+	a := []int{1, 2}
+	fmt.Println(a[:len(a)-1])
 }
