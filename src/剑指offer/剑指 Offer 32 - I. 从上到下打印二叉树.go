@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 /**
  * Definition for a binary tree node.
  * type TreeNode struct {
@@ -28,7 +26,6 @@ func levelOrder(root *TreeNode) []int {
 			queue = append(queue, root.Right)
 		}
 		res = append(res, root.Val)
-		fmt.Println(root)
 		queue = queue[1:]
 		if len(queue) != 0 {
 			root = queue[0]

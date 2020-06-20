@@ -13,8 +13,8 @@ func minArray(numbers []int) int {
 		return -1
 	}
 	for left<right{
-		mid = (left+right)/2
-		if numbers[left]<numbers[right]{
+		mid = (left+right) / 2
+		if numbers[left] < numbers[right]{
 			return numbers[left]
 		}
 		if numbers[mid]>numbers[right]{
