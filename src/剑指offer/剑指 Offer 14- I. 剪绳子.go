@@ -28,12 +28,6 @@ func cuttingRope(n int) int {
 		}
 		a[i] = max
 	}
-	fmt.Println(a)
 	return a[len(a)-1]
 }
 
-func main() {
-	n := 10
-
-	fmt.Println(cuttingRope(n))
-}

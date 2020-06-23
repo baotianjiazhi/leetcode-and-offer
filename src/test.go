@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(9>>1)
+	m := map [byte]int{}
+	fmt.Println(m[12])
 }
