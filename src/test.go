@@ -8,11 +8,7 @@ func swap(a, b *int) {
 	*b = tmp
 }
 func main() {
-	for i := 0; i <= 5; i++ {
-		fmt.Println(i)
-	}
+	a := []int{1, 2, 3, 4, 5, 6}
+	fmt.Println(a[:0])
 
-	for i := 0; i <= 5; i++ {
-		fmt.Println(i)
-	}
 }
