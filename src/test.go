@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func swap(a, b *int) {
 	tmp := *a
@@ -8,7 +10,7 @@ func swap(a, b *int) {
 	*b = tmp
 }
 func main() {
-	a := []int{1, 2, 3, 4, 5, 6}
-	fmt.Println(a[:2])
-
+	a := "120"
+	b := "210"
+	fmt.Println(a > b)
 }
