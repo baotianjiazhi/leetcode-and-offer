@@ -10,7 +10,6 @@ func swap(a, b *int) {
 	*b = tmp
 }
 func main() {
-	a := "120"
-	b := "210"
-	fmt.Println(a > b)
+	x := []int{1, 2}
+	fmt.Println(x[1:])
 }
