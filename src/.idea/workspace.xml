@@ -2,11 +2,12 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/剑指offer/剑指 Offer 50. 第一个只出现一次的字符.go" description="&#10;&#9;if len(s) == 0 {&#10;&#9;&#9;return 32&#10;&#9;}&#10;&#10;&#9;s_c := []byte(..." line="5" />
+    <bookmark url="file://$PROJECT_DIR$/剑指offer/剑指 Offer 47. 礼物的最大价值.go" description="&#9;if a &gt; b {&#10;&#9;&#9;return a&#10;&#9;} else {&#10;&#9;&#9;return b&#10;&#9;}&#10;}" line="29" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="587b703a-eb8e-4a9b-a8b8-844ea39fb917" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指offer/剑指 Offer 49. 丑数.go" beforeDir="false" afterPath="$PROJECT_DIR$/剑指offer/剑指 Offer 49. 丑数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指offer/剑指 Offer 51. 数组中的逆序对.go" beforeDir="false" afterPath="$PROJECT_DIR$/剑指offer/剑指 Offer 51. 数组中的逆序对.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,39 +19,39 @@
     <session id="-1817731522">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="11" />
+          <entry key="project.open.time.5" value="12" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="go" value="212" />
+          <entry key="go" value="220" />
           <entry key="md" value="2" />
           <entry key="s" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Go" value="212" />
+          <entry key="Go" value="220" />
           <entry key="Markdown" value="2" />
           <entry key="x86 Plan9 Assembly" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="go" value="37794" />
+          <entry key="go" value="39369" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Go" value="37794" />
+          <entry key="Go" value="39369" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger">
@@ -63,37 +64,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 49. 丑数.go">
+        <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 53 - II. 0～n-1中缺失的数字.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="45" lean-forward="true" selection-start-line="2" selection-end-line="45" />
+            <state relative-caret-position="60">
+              <caret line="2" selection-start-line="2" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 50. 第一个只出现一次的字符.go">
+        <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 54. 二叉搜索树的第k大节点.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="36" column="1" lean-forward="true" selection-start-line="4" selection-end-line="36" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="2" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 55 - I. 二叉树的深度.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="13" selection-start-line="3" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 51. 数组中的逆序对.go">
+        <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 55 - II. 平衡二叉树.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="58">
+              <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.go">
+        <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 47. 礼物的最大价值.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="-2">
+              <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -114,12 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 16. 数值的整数次方.go" />
-        <option value="$PROJECT_DIR$/medium/2. 两数相加/2. 两数相加.go" />
-        <option value="$PROJECT_DIR$/medium/3. 无重复字符的最长子串/3. 无重复字符的最长子串.go" />
-        <option value="$PROJECT_DIR$/排序算法/归并排序.go" />
-        <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 17. 打印从1到最大的n位数.go" />
-        <option value="$PROJECT_DIR$/medium/46. 全排列/46. 全排列.go" />
         <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 18. 删除链表的节点.go" />
         <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 19. 正则表达式匹配.go" />
         <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 21. 调整数组顺序使奇数位于偶数前面.go" />
@@ -165,6 +169,12 @@
         <option value="$PROJECT_DIR$/test.go" />
         <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 50. 第一个只出现一次的字符.go" />
         <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 51. 数组中的逆序对.go" />
+        <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 52. 两个链表的第一个公共节点.go" />
+        <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 53 - I. 在排序数组中查找数字 I.go" />
+        <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 53 - II. 0～n-1中缺失的数字.go" />
+        <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 54. 二叉搜索树的第k大节点.go" />
+        <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 55 - I. 二叉树的深度.go" />
+        <option value="$PROJECT_DIR$/剑指offer/剑指 Offer 55 - II. 平衡二叉树.go" />
       </list>
     </option>
   </component>
@@ -174,7 +184,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-11" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -290,15 +300,15 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31876332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32249466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49520257" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49520257" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,61 +375,17 @@
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/剑指offer/剑指 Offer 50. 第一个只出现一次的字符.go</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/剑指offer/剑指 Offer 50. 第一个只出现一次的字符.go</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 32 - I. 从上到下打印二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 32 - II. 从上到下打印二叉树 II.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/面试题 04.04. 检查平衡性/面试题 04.04. 检查平衡性.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="4" selection-start-line="4" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/437. 路径总和 III/437. 路径总和 III.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="8" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/108. 将有序数组转换为二叉搜索树/108. 将有序数组转换为二叉搜索树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/101. 对称二叉树/101. 对称二叉树.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/590. N叉树的后序遍历/590. N叉树的后序遍历.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-152">
@@ -679,13 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 47. 礼物的最大价值.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="3" selection-start-line="3" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 48. 最长不含重复字符的子字符串.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -700,13 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 49. 丑数.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="45" lean-forward="true" selection-start-line="2" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -714,17 +666,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 50. 第一个只出现一次的字符.go">
+    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 51. 数组中的逆序对.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="36" column="1" lean-forward="true" selection-start-line="4" selection-end-line="36" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 51. 数组中的逆序对.go">
+    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 52. 两个链表的第一个公共节点.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="29" lean-forward="true" selection-start-line="3" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 53 - I. 在排序数组中查找数字 I.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 50. 第一个只出现一次的字符.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="36" column="1" selection-start-line="4" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 49. 丑数.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="45" selection-start-line="2" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 53 - II. 0～n-1中缺失的数字.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 54. 二叉搜索树的第k大节点.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 47. 礼物的最大价值.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 55 - I. 二叉树的深度.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="13" selection-start-line="3" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/剑指 Offer 55 - II. 平衡二叉树.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
