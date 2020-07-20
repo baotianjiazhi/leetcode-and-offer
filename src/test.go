@@ -1,11 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"strings"
+)
 
 func swap(a, b *int) {
-	tmp := *a
-	*a = *b
-	*b = tmp
+	s := []string{"dsfsafa", "dasfasdf"}
+	fmt.Println(strings.Join(s, ""))
 }
 func main() {
 	for i := 0; i < 1; i++ {
